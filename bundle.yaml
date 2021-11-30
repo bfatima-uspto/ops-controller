@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "1"
+version: "2"
 id: "bfatima-uspto-ops-controller"
 description: "CloudBees CI configuration bundle for the bfatima-uspto ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/bfatima-uspto/ops-controller"
